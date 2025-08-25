@@ -1,0 +1,28 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "I am following Namaste React course",
+  "homepage": "https://github.com/InverseXenon/nsmte-react-code#readme",
+  "bugs": {
+    "url": "https://github.com/InverseXenon/nsmte-react-code/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InverseXenon/nsmte-react-code.git"
+  },
+  "license": "ISC",
+  "author": "Piyush Patil",
+  "type": "module",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
